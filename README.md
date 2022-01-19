@@ -21,6 +21,6 @@ Pour avoir un visuel de mes différents projets je vous invites à faire un peti
 
 Je recherche actuellement un stage pour une durée de 4 mois a partir du 1er Avril 2022.
 
-Vous êtes intéressés par mon profil, voici les différents moyens de me contacter :
-📧 Lucasdouchet17112003@gmail.com
+Vous êtes intéressés par mon profil, voici les différents moyens de me contacter : <br>
+📧 Lucasdouchet17112003@gmail.com <br>
 📞 06 25 19 30 88
