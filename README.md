@@ -10,12 +10,12 @@ Je suis d’un naturel optimiste, joyeux, curieux et entreprenant, je vise l’e
 « Agissez comme s’il était impossible d’échouer. »
 
 
-Petit point sur mes compétences :
-➡️ HTML/ CSS/ JS
-➡️ React JS
-➡️ Git / Github
-➡️ Photoshop / Illustrator
-➡️ Figma
+Petit point sur mes compétences : <br>
+➡️ HTML/ CSS/ JS <br>
+➡️ React JS <br>
+➡️ Git / Github <br>
+➡️ Photoshop / Illustrator <br>
+➡️ Figma <br>
 
 Pour avoir un visuel de mes différents projets je vous invites à faire un petit tour sur mon profil.
 
